@@ -216,7 +216,7 @@ a.header {
 
 #content{
 	overflow:hidden;
-	width: 7000px;
+	width: 100%;
 	position:relative;
 	height: 500px;
 }
@@ -264,10 +264,11 @@ a.header {
 }
 
 #templatemo_menu {
-	margin: 140px 0 0;
+	margin: 60px 0 0;
 	padding: 0;
 	list-style: none
 }
+
 
 #templatemo_menu li {
 	display: block;
@@ -277,8 +278,35 @@ a.header {
 	margin: 0 20px 20px 0;
 	background: url(../images/menu_box.png) no-repeat
 }
+#templatemo_menux li {
+	display: block;
+	float: left;
+	width: 140px;
+	height: 160px; 
+	margin: 0 20px 20px 0;
+	background: url(../images/menu_box.png) no-repeat
+}
+#templatemo_menux li {
+	display: block;
+	float: left;
+	width: 140px;
+	height: 160px; 
+	margin: 0 20px 20px 0;
+	background: url(../images/menu_box.png) no-repeat
+}
+#templatemo_menux li {
+	display: block;
+	float: left;
+	width: 140px;
+	height: 160px; 
+	margin: 0 20px 20px 0;
+	background: url(../images/menu_box.png) no-repeat
+}
 
 #templatemo_menu li.no_margin_right { 
+	margin-right: 0; 
+}
+#templatemo_menux li.no_margin_right { 
 	margin-right: 0; 
 }
 
@@ -294,8 +322,36 @@ a.header {
 	font-size: 10px;
 	color: #fff; 
 }
+#templatemo_menux li a { 
+	display: block; 
+	width: 120px; 
+	height: 30px; 
+	padding: 130px 10px 0px; 
+	background-repeat: no-repeat; 
+	background-position: 15px 15px; 
+	text-align: center; 
+	line-height: 30px; 
+	font-size: 10px;
+	color: #fff; 
+}
+#templatemo_menux li a { 
+	display: block; 
+	width: 120px; 
+	height: 30px; 
+	padding: 130px 10px 0px; 
+	background-repeat: no-repeat; 
+	background-position: 15px 15px; 
+	text-align: center; 
+	line-height: 30px; 
+	font-size: 10px;
+	color: #fff; 
+}
 
 #templatemo_menu li a:hover { 
+	text-shadow: 1px 1px 1px #555; 
+	text-decoration: none; 
+}
+#templatemo_menux li a:hover { 
 	text-shadow: 1px 1px 1px #555; 
 	text-decoration: none; 
 }
@@ -318,6 +374,39 @@ a.header {
 
 #templatemo_menu li a.icon5 {
 	background-image: url(../images/icon5.png);
+}
+#templatemo_menu li a:hover { 
+	text-shadow: 1px 1px 1px #555; 
+	text-decoration: none; 
+}
+#templatemo_menux li a:hover { 
+	text-shadow: 1px 1px 1px #555; 
+	text-decoration: none; 
+}
+
+
+#templatemo_menux li a.icon1 {
+	background-image: url(../images/icon1.png);
+}
+
+#templatemo_menux li a.icon2 {
+	background-image: url(../images/icon2.png);
+}
+
+#templatemo_menux li a.icon3 {
+	background-image: url(../images/icon3.png);
+}
+
+#templatemo_menux li a.icon4 {
+	background-image: url(../images/icon4.png);
+}
+
+#templatemo_menux li a.icon5 {
+	background-image: url(../images/icon5.png);
+}
+#templatemo_menux li a:hover { 
+	text-shadow: 1px 1px 1px #555; 
+	text-decoration: none; 
 }
 
 #social_links {
