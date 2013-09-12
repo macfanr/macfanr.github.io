@@ -375,6 +375,7 @@ a.header {
 #templatemo_menu li a.icon5 {
 	background-image: url(../images/icon5.png);
 }
+
 #templatemo_menu li a:hover { 
 	text-shadow: 1px 1px 1px #555; 
 	text-decoration: none; 
@@ -385,24 +386,24 @@ a.header {
 }
 
 
-#templatemo_menux li a.icon1 {
-	background-image: url(../images/icon1.png);
+#templatemo_menux li a.icon6 {
+	background-image: url(../images/icon6.png);
 }
 
-#templatemo_menux li a.icon2 {
-	background-image: url(../images/icon2.png);
+#templatemo_menux li a.icon7 {
+	background-image: url(../images/icon7.png);
 }
 
-#templatemo_menux li a.icon3 {
-	background-image: url(../images/icon3.png);
+#templatemo_menux li a.icon8 {
+	background-image: url(../images/icon8.png);
 }
 
-#templatemo_menux li a.icon4 {
-	background-image: url(../images/icon4.png);
+#templatemo_menux li a.icon9 {
+	background-image: url(../images/icon9.png);
 }
 
-#templatemo_menux li a.icon5 {
-	background-image: url(../images/icon5.png);
+#templatemo_menux li a.icon10 {
+	background-image: url(../images/icon10.png);
 }
 #templatemo_menux li a:hover { 
 	text-shadow: 1px 1px 1px #555; 
