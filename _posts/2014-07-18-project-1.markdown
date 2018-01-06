@@ -1,13 +1,14 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2017-12-18
 img: cabin.png
 alt: image-alt
 title: Remote for Roku
-project-date: April 2014
+project-date: Dec 2017
 client: OS X
 category: Utility
+appstore: https://itunes.apple.com/us/app/remote-for-roku/id1308270746?mt=12
 description: Remote for Roku is an remote controller for your Roku stick, it lets you easily control your Roku from your iMac/MacbookPro. you will never worry about losing your Roku remote again. More than that, the app allows you to cast all formats of your video/music to Roku. Just simply connect to your wifi to begin.
 
 ---
