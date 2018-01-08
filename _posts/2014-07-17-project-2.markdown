@@ -1,12 +1,10 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2017-05-17
 img: cake.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+title: Mira Video Converter
+description: Mira Video Converter is the best video converter for mac, it lets you effortlessy convert any video files to MP4, MOV and MP3 format, which You can enjoy on your devices like iPhone, iPad, computer and other Android devices. Mira Video Converter has presets that will convert your video to the correct sizes and formats for popular phones, pads, and other media players. Just convert your video and copy it to your device. Mira Video Converter also can extract audio from any video format to MP3, So you can enjoy the music on your mobile phone.
 
 ---
