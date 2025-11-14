@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Couple Games</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header with Navigation -->
+    <header>
+        <div class="container">
+            <div class="logo">
+                <img src="images/logo.png" alt="Couple Games" />
+                <span>Couple Games</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <div class="container">
+            <h1>Couple Games</h1>
+            <p>Choose the games that you want to play with your partner.</p>
+            
+            <div class="icon-libraries">
+                <!-- Colors Icon Library -->
+                <div class="library-card">
+                    <h3>Couple Games Pack 1</h3>
+                    <div class="icons-preview">
+                        <img src="images/pack1.png" alt="Couple Games Pack 1" class="preview-large">
+                    </div>
+                    <button class="copy-url-btn" data-url="https://folderico.com/downloads/colors-icon-library.zip">Copy URL</button>
+                </div>
+
+                <!-- Everyday Icon Library -->
+                <div class="library-card">
+                    <h3>Couple Games Pack 2</h3>
+                    <div class="icons-preview">
+                        <img src="images/pack2.png" alt="Couple Games Pack 2" class="preview-large">
+                    </div>
+                    <button class="copy-url-btn" data-url="https://folderico.com/downloads/everyday-icon-library.zip">Copy URL</button>
+                </div>
+
+                <!-- Photos Icon Library -->
+                <div class="library-card">
+                    <h3>Couple Games Pack 3</h3>
+                    <div class="icons-preview">
+                        <img src="images/pack3.png" alt="Couple Games Pack 3" class="preview-large">
+                    </div>
+                    <button class="copy-url-btn" data-url="https://folderico.com/downloads/photos-icon-library.zip">Copy URL</button>
+                </div>
+
+                <!-- Funny-Cats Icon Library -->
+                <div class="library-card">
+                    <h3>Couple Games Pack 4</h3>
+                    <div class="icons-preview">
+                        <img src="images/pack4.png" alt="Couple Games Pack 4" class="preview-large">
+                    </div>
+                    <button class="copy-url-btn" data-url="https://folderico.com/downloads/funny-cats-icon-library.zip">Copy URL</button>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>Want to share your own Game Pack with other users? Please send it to <a href="mailto:cocoadevsc@gmail.com">cocoadevsc@gmail.com</a></p>
+        </div>
+    </footer>
+
+    <!-- Modal for displaying URL -->
+    <div id="url-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <h3>Download URL</h3>
+            <input type="text" id="url-input" readonly>
+            <div class="modal-actions">
+                <button id="copy-to-clipboard">Copy to Clipboard</button>
+                <button id="close-button">Close</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
